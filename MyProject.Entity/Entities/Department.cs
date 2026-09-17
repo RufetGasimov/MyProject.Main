@@ -8,5 +8,5 @@ public class Department:AuditEntity
     public string? Description { get; set; }
     public int Limit { get; set; }
     public string? Location { get; set; }
-    public object? Id { get; set; }
+    
 }
